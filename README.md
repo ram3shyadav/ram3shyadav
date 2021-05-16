@@ -2,13 +2,13 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ram3shyadav/">
-        <img src="https://img.shields.io/badge/@1rameshyadav-30302f?style=flat&logo=linkedin">
+        <img src="https://img.shields.io/badge/@ram3shyadav-30302f?style=flat&logo=linkedin">
     </a> &nbsp; 
     <a href="https://twitter.com/ram3shyadav">
-        <img src="https://img.shields.io/badge/@1__rameshy-30302f?style=flat&logo=twitter">
+        <img src="https://img.shields.io/badge/@ram3shyadav-30302f?style=flat&logo=twitter">
     </a>
     <a href="https://medium.com/@ram3shyadav">
-        <img src="https://img.shields.io/badge/@rameshy-30302f?style=flat&logo=medium">
+        <img src="https://img.shields.io/badge/@ram3shyadav-30302f?style=flat&logo=medium">
     </a>
 </p>
 <hr>
