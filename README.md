@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ramesh-yadav&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ram3shyadav&show_icons=true)
 
 <!--
 **ramesh-yadav/ramesh-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
